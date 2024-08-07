@@ -7,7 +7,7 @@ services:
     volumes:
       - ../../.env:/app/.env
 
-  # next-staging-frontend-2:
+  # next-staging-frontend-2: nothing to see here
   #   build:
   #     context: ../../
   #     dockerfile: docker/staging/Dockerfile
