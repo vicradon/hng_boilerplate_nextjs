@@ -17,3 +17,9 @@ bro
 
 
 Bro tenacious
+
+
+So here's the thing.
+
+This is how we track a commit that goes into this branch first
+Before it finnaly makes it's way to dev
