@@ -2,8 +2,7 @@
 
 ## Overview
 
-[Description]
-
+chatgpt 
 ## Getting Started
 
 In order to run this app locally, you should have the following programs installed on your computer:
